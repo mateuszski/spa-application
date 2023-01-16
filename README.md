@@ -8,7 +8,7 @@ To run project type in terminal:
 
 # Preview
 
-![Screen1](https://raw.githubusercontent.com/mateuszski/spa-application/main/images_readme/screen_1.png)
-![Screen2](https://raw.githubusercontent.com/mateuszski/spa-application/main/images_readme/screen_2.png)
-![Screen3](https://raw.githubusercontent.com/mateuszski/spa-application/main/images_readme/screen_3.png)
-![Screen4](https://raw.githubusercontent.com/mateuszski/spa-application/main/images_readme/screen_4.png)
+![Screen1](https://github.com/mateuszski/spa-application/blob/main/src/images_readme/screen_1.png)
+![Screen2](https://github.com/mateuszski/spa-application/blob/main/src/images_readme/screen_2.png)
+![Screen3](https://github.com/mateuszski/spa-application/blob/main/src/images_readme/screen_3.png)
+![Screen4](https://github.com/mateuszski/spa-application/blob/main/src/images_readme/screen_4.png)
