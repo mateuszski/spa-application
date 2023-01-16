@@ -1,0 +1,15 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background */
+  z-index: 998;
+  filter: blur(5px);
+  transition: all 0.5s ease;
+}
+// .modal-overlay {
+//   filter: blur(5px);
+//   transition: all 0.5s ease;
+// }
